@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **C++, Lua, Rust**
 
-- 📫 Contact me **_radaros on discord!**
+- 📫 Contact me **@_radaros on Discord!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
