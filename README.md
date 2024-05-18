@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on **Footfresh.cz**
 
-- 🌱 I’m currently learning **C++, Lua, Rust**
-
 - 📫 Contact me **@_radaros on Discord!**
 
 <h3 align="left">Languages and Tools:</h3>
